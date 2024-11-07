@@ -3,7 +3,7 @@ Overview
 This project involves data analysis and visualization using Python. The objective is to explore relationships within a dataset, perform various statistical analyses, and visualize key insights using matplotlib and seaborn. The results will be presented in a PDF report alongside the code in this repository.
 
 Dataset
-The dataset used for this analysis is sourced from [source link or site, e.g., Kaggle/Worldbank]. The dataset contains data about companies, including their revenues, countries, and other relevant attributes.
+The dataset used for this analysis is sourced from https://www.kaggle.com/code/karthikeyadwadasi/world-top-companies-financial-analysis. The dataset contains data about companies, including their revenues, countries, and other relevant attributes.
 
 Objectives
 The assignment focuses on:
