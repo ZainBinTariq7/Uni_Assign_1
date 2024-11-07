@@ -4,7 +4,7 @@
 This project involves data analysis and visualization using Python. The objective is to explore relationships within a dataset, perform various statistical analyses, and visualize key insights using matplotlib and seaborn. The results will be presented in a PDF report alongside the code in this repository.
 
 <h2>Dataset</h2>
-The dataset used for this analysis is sourced from Kaggle. It contains information about companies, including their revenues, countries, and other relevant attributes.
+The dataset used for this evaluation is from Kaggle. It contains information about companies, including their revenues, countries, and other relevant attributes.
 
 <h2>Objectives</h2>
 The assignment focuses on:
@@ -34,7 +34,7 @@ bash
 Copy code
 pip install pandas matplotlib seaborn numpy <br>
 <h2>Installing</h2> <br>
-A step-by-step guide to set up the development environment:
+Step-via-step guide to putting in place your improvement environment:
 
 <b>Clone the repository</b>. <br>
 Open and run the Jupyter Notebook file Assign_1.ipynb in an environment that supports Jupyter notebooks. <br>
@@ -53,7 +53,7 @@ Additional steps and notes for deploying the analysis or visualizations on a liv
 <b>Contributor Covenant</b> - Used for the Code of Conduct<br>
 <b>Creative Commons</b> - Used to choose the license <br>
 <h2>Contributing</h2> <br>
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Please study CONTRIBUTING.md for details on our code of conduct and the process for filing pull requests.
 <br>
 <h2>Versioning</h2> <br>
 We use Semantic Versioning for versioning. For the versions available, see the tags on this repository.
@@ -61,10 +61,6 @@ We use Semantic Versioning for versioning. For the versions available, see the t
 
 <h2>Authors</h2> <br>
 Zain Bin Tariq - Original README and code organization <br>
-See also the list of contributors who participated in this project.
-<br>
-<h2>License</h2> <br>
-This project is licensed under the CC0 1.0 Universal Creative Commons License - see the LICENSE.md file for details.
 <br>
 <h2>Acknowledgments</h2><br>
 <b>Inspiration:</b> Thanks to anyone whose code or resources were helpful. <br>
