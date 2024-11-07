@@ -13,21 +13,21 @@ Analyzing the dataset to understand patterns and relationships.
 Visualizing distributions and comparisons using bar charts, pie charts, and heatmaps.
 Demonstrating proficiency with data manipulation, cleaning, and statistical analysis. <br>
 
-<h2>Visualization Details</h2>
+<h2>Visualization Details</h2> <br>
 
-Top 10 Companies by Revenue: A horizontal bar chart showing the top 10 companies ranked by revenue.
-Country Distribution: A pie chart visualizing the distribution of companies by country.
-Correlation Heatmap: A heatmap to identify correlations between numeric features in the dataset.
+<strong>Top 10 Companies by Revenue:</strong> A horizontal bar chart showing the top 10 companies ranked by revenue.
+<strong>Country Distribution:</strong> A pie chart visualizing the distribution of companies by country.
+<strong>Correlation Heatmap:</strong> A heatmap to identify correlations between numeric features in the dataset.
 
 <h2>Getting Started</h2> <br>
 
 These instructions will guide you to get a copy of the project up and running on your local machine for development and testing purposes. <br>
 
-<h2>Prerequisites</h2>
+<h2>Prerequisites</h2> <br>
 Ensure you have the following requirements and tools installed:
 
-Python 3.x
-Libraries: pandas, matplotlib, seaborn, numpy
+<b>Python 3.x</b>
+<b>Libraries:</b> pandas, matplotlib, seaborn, numpy
 Install the necessary libraries with:
 
 bash
@@ -36,8 +36,8 @@ pip install pandas matplotlib seaborn numpy <br>
 <h2>Installing</h2> <br>
 A step-by-step guide to set up the development environment:
 
-Clone the repository.
-Open and run the Jupyter Notebook file Assign_1.ipynb in an environment that supports Jupyter notebooks.
+<b>Clone the repository</b>. <br>
+Open and run the Jupyter Notebook file Assign_1.ipynb in an environment that supports Jupyter notebooks. <br>
 Repeat these steps as needed until you have set up the environment successfully.
 <br>
 
@@ -45,13 +45,13 @@ Repeat these steps as needed until you have set up the environment successfully.
 <h2>Sample Tests</h2>
 This section includes tests that confirm the data loading and transformation work as expected. Additional tests verify that the visualizations are rendered correctly. <br>
 
-Style Test: Checks if best practices and coding style guidelines have been followed. <br>
+<b>Style Test:</b> Checks if best practices and coding style guidelines have been followed. <br>
 <h2>Deployment</h2> <br>
 Additional steps and notes for deploying the analysis or visualizations on a live system can be added here. <br>
 
-<h2>Built With</h2>
-Contributor Covenant - Used for the Code of Conduct
-Creative Commons - Used to choose the license <br>
+<h2>Built With</h2><br>
+<b>Contributor Covenant</b> - Used for the Code of Conduct<br>
+<b>Creative Commons</b> - Used to choose the license <br>
 <h2>Contributing</h2> <br>
 Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 <br>
@@ -60,12 +60,12 @@ We use Semantic Versioning for versioning. For the versions available, see the t
 <br>
 
 <h2>Authors</h2> <br>
-Zain Bin Tariq - Original README and code organization
+Zain Bin Tariq - Original README and code organization <br>
 See also the list of contributors who participated in this project.
 <br>
 <h2>License</h2> <br>
 This project is licensed under the CC0 1.0 Universal Creative Commons License - see the LICENSE.md file for details.
 <br>
 <h2>Acknowledgments</h2><br>
-<b>Inspiration:</b> Thanks to anyone whose code or resources were helpful.
+<b>Inspiration:</b> Thanks to anyone whose code or resources were helpful. <br>
 <b>Data Source:</b> Kaggle
