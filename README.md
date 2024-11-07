@@ -1,7 +1,7 @@
 <h1> Data Analysis and Visualization Assignment </h1> <br>
 <h2>Overview</h2> <br>
 
-This project involves data analysis and visualization using Python. The objective is to explore relationships within a dataset, perform various statistical analyses, and visualize key insights using matplotlib and seaborn. The results will be presented in a PDF report alongside the code in this repository.
+This project involves data analysis and visualization using Python. The goal is to explore relationships within a dataset, carry out numerous statistical analyses, and visualize key insights using matplotlib and seaborn. The results will be presented in a PDF report alongside the code in this repository.
 
 <h2>Dataset</h2>
 The dataset used for this evaluation is from Kaggle. It contains information about companies, including their revenues, countries, and other relevant attributes.
